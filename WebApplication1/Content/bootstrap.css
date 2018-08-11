@@ -4962,8 +4962,15 @@ a.badge:focus {
   color: inherit;
   background-color: #eee;
 }
-.jumbotron h1,
-.jumbotron .h1 {
+
+.homeimage {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: inherit;
+    background-color: #eee;
+}
+
+.jumbotron h1, .jumbotron .h1 {
   color: inherit;
 }
 .jumbotron p {
